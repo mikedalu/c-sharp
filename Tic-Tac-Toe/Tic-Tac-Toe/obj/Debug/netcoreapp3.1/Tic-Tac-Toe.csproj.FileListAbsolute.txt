@@ -1,0 +1,14 @@
+C:\Users\Michael\Desktop\c#\Csharp-Beginner-Projects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.exe
+C:\Users\Michael\Desktop\c#\Csharp-Beginner-Projects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.deps.json
+C:\Users\Michael\Desktop\c#\Csharp-Beginner-Projects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.runtimeconfig.json
+C:\Users\Michael\Desktop\c#\Csharp-Beginner-Projects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.runtimeconfig.dev.json
+C:\Users\Michael\Desktop\c#\Csharp-Beginner-Projects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.dll
+C:\Users\Michael\Desktop\c#\Csharp-Beginner-Projects\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.pdb
+C:\Users\Michael\Desktop\c#\Csharp-Beginner-Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.csproj.AssemblyReference.cache
+C:\Users\Michael\Desktop\c#\Csharp-Beginner-Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Desktop\c#\Csharp-Beginner-Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\c#\Csharp-Beginner-Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.AssemblyInfo.cs
+C:\Users\Michael\Desktop\c#\Csharp-Beginner-Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\c#\Csharp-Beginner-Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.dll
+C:\Users\Michael\Desktop\c#\Csharp-Beginner-Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.pdb
+C:\Users\Michael\Desktop\c#\Csharp-Beginner-Projects\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.genruntimeconfig.cache
